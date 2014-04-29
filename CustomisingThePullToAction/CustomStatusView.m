@@ -16,6 +16,8 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 //
+// Refresh resource courtesy of VisualPharm ( http://www.visualpharm.com ) via Icon Arcive ( http://www.iconarchive.com ).
+//
 
 #import "CustomStatusView.h"
 
