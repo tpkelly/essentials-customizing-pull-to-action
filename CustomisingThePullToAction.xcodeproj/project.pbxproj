@@ -37,7 +37,6 @@
 		424ED0DC18F5341C005DA4A6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		424ED0DD18F5341C005DA4A6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		424ED0DF18F5341C005DA4A6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		424ED0E618F5341C005DA4A6 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		424ED10418F56939005DA4A6 /* CustomVisualizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomVisualizer.h; sourceTree = "<group>"; };
 		424ED10518F56939005DA4A6 /* CustomVisualizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomVisualizer.m; sourceTree = "<group>"; };
 		424ED10718F569B1005DA4A6 /* CustomStatusView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomStatusView.h; sourceTree = "<group>"; };
@@ -81,7 +80,6 @@
 				424ED0C418F5341B005DA4A6 /* Foundation.framework */,
 				424ED0C618F5341B005DA4A6 /* CoreGraphics.framework */,
 				424ED0C818F5341B005DA4A6 /* UIKit.framework */,
-				424ED0E618F5341C005DA4A6 /* XCTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
