@@ -36,6 +36,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    [SEssentials setLicenseKey:@""]; // Trial Users - Add license key here
 
     /* Create a scroll view. */
     self.scrollView = [[UIScrollView alloc] initWithFrame:self.view.bounds];
