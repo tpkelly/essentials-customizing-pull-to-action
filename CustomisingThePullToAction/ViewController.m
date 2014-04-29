@@ -49,7 +49,7 @@
     label.textAlignment = NSTextAlignmentCenter;
     [self.scrollView addSubview:label];
     
-    /* Initialise our Pull to Action. */
+    /* Initialize our Pull to Action. */
     self.pullToAction = [[SEssentialsPullToAction alloc] initWithScrollView:self.scrollView];
     self.pullToAction.delegate = self;
     [self.view addSubview:self.pullToAction];
