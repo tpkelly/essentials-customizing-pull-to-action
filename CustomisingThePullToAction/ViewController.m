@@ -20,7 +20,7 @@
 
 #import "ViewController.h"
 
-#import <ShinobiEssentials/SEssentialsPullToAction.h>
+#import <ShinobiEssentials/ShinobiEssentials.h>
 #import "CustomVisualizer.h"
 #import "CustomStatusView.h"
 
