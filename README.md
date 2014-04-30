@@ -5,7 +5,7 @@ A ShinobiEssentials demo app showing how to customise the ShinobiEssentials Pull
 
 ![Screenshot](Screenshot.png?raw=true)
 
-There's a [blog post](http://www.shinobicontrols.com/blog) to accompany this project.
+There's a [blog post](http://www.shinobicontrols.com/blog/posts/2014/04/30/customizing-the-pull-to-action) to accompany this project.
 
 Building the project
 ------------------
