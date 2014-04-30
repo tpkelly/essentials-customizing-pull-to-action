@@ -1,6 +1,6 @@
 //
 //  CustomVisualizer.m
-//  CustomisingThePullToAction
+//  CustomizingThePullToAction
 //
 //  Copyright 2014 Scott Logic
 //

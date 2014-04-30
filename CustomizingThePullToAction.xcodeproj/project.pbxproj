@@ -24,14 +24,14 @@
 
 /* Begin PBXFileReference section */
 		4209BF6A190FDF660096FDE3 /* ShinobiEssentials.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ShinobiEssentials.framework; path = Library/Frameworks/ShinobiEssentials.framework; sourceTree = DEVELOPER_DIR; };
-		424ED0C118F5341B005DA4A6 /* CustomisingThePullToAction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomisingThePullToAction.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		424ED0C118F5341B005DA4A6 /* CustomizingThePullToAction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomizingThePullToAction.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		424ED0C418F5341B005DA4A6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		424ED0C618F5341B005DA4A6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		424ED0C818F5341B005DA4A6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		424ED0CC18F5341B005DA4A6 /* CustomisingThePullToAction-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CustomisingThePullToAction-Info.plist"; sourceTree = "<group>"; };
+		424ED0CC18F5341B005DA4A6 /* CustomizingThePullToAction-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CustomizingThePullToAction-Info.plist"; sourceTree = "<group>"; };
 		424ED0CE18F5341B005DA4A6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		424ED0D018F5341C005DA4A6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		424ED0D218F5341C005DA4A6 /* CustomisingThePullToAction-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CustomisingThePullToAction-Prefix.pch"; sourceTree = "<group>"; };
+		424ED0D218F5341C005DA4A6 /* CustomizingThePullToAction-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CustomizingThePullToAction-Prefix.pch"; sourceTree = "<group>"; };
 		424ED0D318F5341C005DA4A6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		424ED0D418F5341C005DA4A6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		424ED0D718F5341C005DA4A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
@@ -63,7 +63,7 @@
 		424ED0B818F5341B005DA4A6 = {
 			isa = PBXGroup;
 			children = (
-				424ED0CA18F5341B005DA4A6 /* CustomisingThePullToAction */,
+				424ED0CA18F5341B005DA4A6 /* CustomizingThePullToAction */,
 				424ED0C318F5341B005DA4A6 /* Frameworks */,
 				424ED0C218F5341B005DA4A6 /* Products */,
 			);
@@ -72,7 +72,7 @@
 		424ED0C218F5341B005DA4A6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				424ED0C118F5341B005DA4A6 /* CustomisingThePullToAction.app */,
+				424ED0C118F5341B005DA4A6 /* CustomizingThePullToAction.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -88,7 +88,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		424ED0CA18F5341B005DA4A6 /* CustomisingThePullToAction */ = {
+		424ED0CA18F5341B005DA4A6 /* CustomizingThePullToAction */ = {
 			isa = PBXGroup;
 			children = (
 				424ED0D318F5341C005DA4A6 /* AppDelegate.h */,
@@ -104,16 +104,17 @@
 				424ED10718F569B1005DA4A6 /* CustomStatusView.h */,
 				424ED10818F569B1005DA4A6 /* CustomStatusView.m */,
 			);
-			path = CustomisingThePullToAction;
+			name = CustomizingThePullToAction;
+			path = CustomizingThePullToAction;
 			sourceTree = "<group>";
 		};
 		424ED0CB18F5341B005DA4A6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				424ED0CC18F5341B005DA4A6 /* CustomisingThePullToAction-Info.plist */,
+				424ED0CC18F5341B005DA4A6 /* CustomizingThePullToAction-Info.plist */,
 				424ED0CD18F5341B005DA4A6 /* InfoPlist.strings */,
 				424ED0D018F5341C005DA4A6 /* main.m */,
-				424ED0D218F5341C005DA4A6 /* CustomisingThePullToAction-Prefix.pch */,
+				424ED0D218F5341C005DA4A6 /* CustomizingThePullToAction-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -121,9 +122,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		424ED0C018F5341B005DA4A6 /* CustomisingThePullToAction */ = {
+		424ED0C018F5341B005DA4A6 /* CustomizingThePullToAction */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 424ED0F618F5341C005DA4A6 /* Build configuration list for PBXNativeTarget "CustomisingThePullToAction" */;
+			buildConfigurationList = 424ED0F618F5341C005DA4A6 /* Build configuration list for PBXNativeTarget "CustomizingThePullToAction" */;
 			buildPhases = (
 				424ED0BD18F5341B005DA4A6 /* Sources */,
 				424ED0BE18F5341B005DA4A6 /* Frameworks */,
@@ -133,9 +134,9 @@
 			);
 			dependencies = (
 			);
-			name = CustomisingThePullToAction;
-			productName = CustomisingThePullToAction;
-			productReference = 424ED0C118F5341B005DA4A6 /* CustomisingThePullToAction.app */;
+			name = CustomizingThePullToAction;
+			productName = CustomizingThePullToAction;
+			productReference = 424ED0C118F5341B005DA4A6 /* CustomizingThePullToAction.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -147,7 +148,7 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = ShinobiControls;
 			};
-			buildConfigurationList = 424ED0BC18F5341B005DA4A6 /* Build configuration list for PBXProject "CustomisingThePullToAction" */;
+			buildConfigurationList = 424ED0BC18F5341B005DA4A6 /* Build configuration list for PBXProject "CustomizingThePullToAction" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -160,7 +161,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				424ED0C018F5341B005DA4A6 /* CustomisingThePullToAction */,
+				424ED0C018F5341B005DA4A6 /* CustomizingThePullToAction */,
 			);
 		};
 /* End PBXProject section */
@@ -306,9 +307,9 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "CustomisingThePullToAction/CustomisingThePullToAction-Prefix.pch";
-				INFOPLIST_FILE = "CustomisingThePullToAction/CustomisingThePullToAction-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "CustomizingThePullToAction/CustomizingThePullToAction-Prefix.pch";
+				INFOPLIST_FILE = "CustomizingThePullToAction/CustomizingThePullToAction-Info.plist";
+				PRODUCT_NAME = CustomizingThePullToAction;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -323,9 +324,9 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "CustomisingThePullToAction/CustomisingThePullToAction-Prefix.pch";
-				INFOPLIST_FILE = "CustomisingThePullToAction/CustomisingThePullToAction-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "CustomizingThePullToAction/CustomizingThePullToAction-Prefix.pch";
+				INFOPLIST_FILE = "CustomizingThePullToAction/CustomizingThePullToAction-Info.plist";
+				PRODUCT_NAME = CustomizingThePullToAction;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -333,7 +334,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		424ED0BC18F5341B005DA4A6 /* Build configuration list for PBXProject "CustomisingThePullToAction" */ = {
+		424ED0BC18F5341B005DA4A6 /* Build configuration list for PBXProject "CustomizingThePullToAction" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				424ED0F418F5341C005DA4A6 /* Debug */,
@@ -342,7 +343,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		424ED0F618F5341C005DA4A6 /* Build configuration list for PBXNativeTarget "CustomisingThePullToAction" */ = {
+		424ED0F618F5341C005DA4A6 /* Build configuration list for PBXNativeTarget "CustomizingThePullToAction" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				424ED0F718F5341C005DA4A6 /* Debug */,

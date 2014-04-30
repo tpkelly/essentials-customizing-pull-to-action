@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D333CE51-5E66-41AA-9FB7-1A8B54451758</string>
+	<string>9AF29EE5-1E9C-4C1E-8984-A2BE21C62F73</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CustomisingThePullToAction</string>
+	<string>CustomizingThePullToAction</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>89B0EA4E-BCF2-47FE-B1B2-B29D4E20833D</key>
-		<string>https://github.com/janakerman/essentials-custom-pull-to-action.git</string>
+		<key>1CDE4E7F-D598-4FEF-B612-6C0A574262D8</key>
+		<string>https://github.com/tpkelly/essentials-customizing-pull-to-action.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CustomisingThePullToAction.xcodeproj/project.xcworkspace</string>
+	<string>CustomizingThePullToAction.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>89B0EA4E-BCF2-47FE-B1B2-B29D4E20833D</key>
+		<key>1CDE4E7F-D598-4FEF-B612-6C0A574262D8</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/janakerman/essentials-custom-pull-to-action.git</string>
+	<string>https://github.com/tpkelly/essentials-customizing-pull-to-action.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>89B0EA4E-BCF2-47FE-B1B2-B29D4E20833D</string>
+	<string>1CDE4E7F-D598-4FEF-B612-6C0A574262D8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>89B0EA4E-BCF2-47FE-B1B2-B29D4E20833D</string>
+			<string>1CDE4E7F-D598-4FEF-B612-6C0A574262D8</string>
 			<key>IDESourceControlWCCName</key>
-			<string>essentials-custom-pull-to-action</string>
+			<string>essentials-customizing-pull-to-action</string>
 		</dict>
 	</array>
 </dict>

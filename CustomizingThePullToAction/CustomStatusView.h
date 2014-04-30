@@ -1,6 +1,6 @@
 //
-//  main.m
-//  CustomisingThePullToAction
+//  CustomStatusView.h
+//  CustomizingThePullToAction
 //
 //  Copyright 2014 Scott Logic
 //
@@ -19,11 +19,13 @@
 
 #import <UIKit/UIKit.h>
 
-#import "AppDelegate.h"
+#import <ShinobiEssentials/SEssentialsPullToActionStatusView.h>
 
-int main(int argc, char * argv[])
-{
-    @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
-    }
-}
+@interface CustomStatusView : UIView <SEssentialsPullToActionStatusView>
+
+@property UIImageView *icon;
+
+-(void)startSpinning;
+-(void)stopSpinning;
+
+@end

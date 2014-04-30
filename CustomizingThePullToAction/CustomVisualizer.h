@@ -1,6 +1,6 @@
 //
-//  AppDelegate.h
-//  CustomisingThePullToAction
+//  CustomVisualizer.h
+//  CustomizingThePullToAction
 //
 //  Copyright 2014 Scott Logic
 //
@@ -19,8 +19,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+#import <ShinobiEssentials/SEssentialsPullToActionVisualizer.h>
 
-@property (strong, nonatomic) UIWindow *window;
+@interface CustomVisualizer : NSObject <SEssentialsPullToActionVisualizer>
 
 @end

@@ -1,6 +1,6 @@
 //
-//  CustomVisualizer.h
-//  CustomisingThePullToAction
+//  ViewController.h
+//  CustomizingThePullToAction
 //
 //  Copyright 2014 Scott Logic
 //
@@ -19,8 +19,6 @@
 
 #import <UIKit/UIKit.h>
 
-#import <ShinobiEssentials/SEssentialsPullToActionVisualizer.h>
-
-@interface CustomVisualizer : NSObject <SEssentialsPullToActionVisualizer>
+@interface ViewController : UIViewController
 
 @end

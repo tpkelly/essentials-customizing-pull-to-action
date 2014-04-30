@@ -1,7 +1,7 @@
-ShinobiEssentials: Customising the Pull to Action (Objective-C)
+ShinobiEssentials: Customizing the Pull to Action (Objective-C)
 =====================
 
-A ShinobiEssentials demo app showing how to customise the ShinobiEssentials Pull to Action control. 
+A ShinobiEssentials demo app showing how to customize the ShinobiEssentials Pull to Action control. 
 
 ![Screenshot](Screenshot.png?raw=true)
 
